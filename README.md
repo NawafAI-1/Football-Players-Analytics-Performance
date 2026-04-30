@@ -188,6 +188,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 <div align="center">
 
 ⭐ **Star this repo if you found it useful!** ⭐
-
-[🚀 Try Live Demo](https://huggingface.co/spaces/Nawaf200/Football_players_Analytics_performance) 
 </div>
