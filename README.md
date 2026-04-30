@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![Football Analytics](https://img.shields.io/badge/AI-YOLOv8%20%2B%20KMeans-brightgreen?style=for-the-badge&logo=python)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange?style=for-the-badge&logo=googlecolab)
 
 **AI-powered football match analysis using YOLOv8 object detection + KMeans jersey classification**
 
